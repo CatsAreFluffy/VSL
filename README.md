@@ -82,7 +82,7 @@ very similar ASM to what a C-implementation would produce.
 
 By using syntax sugar, and powerful type-negotiation, VSL has one of the best
 type deduction algorithms. Combined with low compilation overhead, VSL can
-generate code with bare minimum boilerplate and guarunteed saftey at compile-time.
+generate code with bare minimum boilerplate and guarunteed safety at compile-time.
 
 VSL uses high-level syntax to be able to write code that works for all types of
 programmers, whether you are functional, OO, scripting, or low-level engineer,
